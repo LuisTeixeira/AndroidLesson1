@@ -10,4 +10,8 @@
     <string name="note_test_no_happy_places_found_yet">No happy places found yet. Kindly add one</string>
 
     <string name="image_content_description">image</string>
+
+    <string name="btn_text_view_on_map">VIEW ON MAP</string>
+
+    <string name="google_maps_api_key">AIzaSyBVYU7OGSHCNbot44Nch0uzjJqQRJnJqjg</string>
 </resources>
